@@ -1,0 +1,14 @@
+[22-Aug-2021 07:33:43 UTC] PHP Fatal error:  Trait method credentials has not been applied, because there are collisions with other trait methods on App\Http\Controllers\API\AuthController in /home1/regalfurbdco/public_html/admin/app/Http/Controllers/API/AuthController.php on line 14
+[11-Nov-2021 03:16:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 532480 bytes) in /home1/regalfurbdco/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteCacheCommand.php on line 107
+[21-Jan-2023 14:13:50 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[21-Jan-2023 20:13:51 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 638976 bytes) in /home1/regalfurbdco/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteCacheCommand.php on line 107
+[21-Jan-2023 14:15:10 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[21-Jan-2023 20:15:11 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 638976 bytes) in /home1/regalfurbdco/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteCacheCommand.php on line 107
+[21-Jan-2023 14:17:41 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[21-Jan-2023 20:17:42 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 638976 bytes) in /home1/regalfurbdco/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteCacheCommand.php on line 107
+[21-Jan-2023 14:19:05 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[21-Jan-2023 20:19:06 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 638976 bytes) in /home1/regalfurbdco/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteCacheCommand.php on line 107
+[21-Jan-2023 14:20:27 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[21-Jan-2023 20:20:28 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 638976 bytes) in /home1/regalfurbdco/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteCacheCommand.php on line 107
+[21-Jan-2023 14:23:00 UTC] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[21-Jan-2023 20:23:00 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 638976 bytes) in /home1/regalfurbdco/public_html/admin/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteCacheCommand.php on line 107
